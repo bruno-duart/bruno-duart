@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### Welcome to my GitHub Profile
+
+My name is Bruno Duarte and I'm 23 years old.
+I have a bachelor degree in Computer Engineering and here you can see some of my projects!
+
+
+
+
 <!--
 **bruno-duart/bruno-duart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
