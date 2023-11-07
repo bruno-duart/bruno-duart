@@ -6,7 +6,7 @@
 
 #### Who am I?
 
-My name is Bruno Duarte and I'm 23 years old.
+My name is Bruno Duarte and I'm 24 years old.
 
 I have a bachelor degree in Computer Engineering and here you can see some of my projects!
 
