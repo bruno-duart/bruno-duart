@@ -34,10 +34,10 @@ I'm currently learning a little about Back-end!
 #### Wanna chat?
 
 Feel free to text me in
-
+<!--
 <a href="https://twitter.com/duarbrun">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="60"/>
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/duarte-bruno/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn Badge" width="60"/>
 </a>
